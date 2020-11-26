@@ -1,0 +1,8 @@
+baseURL: http://example.org/
+languageCode: zh-cn
+title: Thank you all
+theme: ananke
+enableEmoji: true
+enableRobotsTXT: true
+hasCJKLanguage: true
+sectionPagesMenu: main
